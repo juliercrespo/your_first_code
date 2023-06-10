@@ -1,1 +1,9 @@
 command to create file
+/tmp$ touch pasbook.txt
+/tmp$
+/tmp$ ls -l pasbook.txt
+-rw-r--r--1 vivek vivek 0 Dec 3 04:10 pasbook.txt
+/tmp$
+/tmp$ cat pasbook.txt\
+/tmp$
+/tmp$
